@@ -1,0 +1,7 @@
+echo "*.jpg" >> .gitignore
+echo "*.csv" >> .gitignore
+echo "*.json" >> .gitignore
+echo "*.xml" >> .gitignore
+echo "*.xlsx" >> .gitignore
+echo "node_modules/" >> .gitignore
+echo "dist/" >> .gitignore
